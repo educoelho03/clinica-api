@@ -1,7 +1,8 @@
-# Clínica 
-
+# Clínica Médica
 O Projeto Clínica foi desenvolvido com o framework Spring e fazer uma API REST com ele, utilizando o Spring Data. Com a API desenvolvida é possível cadastrar um Paciente e fazer requisições HTTP como **POST,GET,PUT,DELETE** e também buscar pacientes com filtros pelo **Nome, CPF e E-mail.** Além disso, a API faz a **validação de CPF, E-mail e Data de Nascimento, no cadastro.**
 
+<br>
+<br>
 
 ## Como Executar
 
